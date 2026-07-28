@@ -17,9 +17,9 @@ def k_to_f(k):
     return (k - 273.15) * 9/5 + 32
 
 def main():
-    print("\n Temprature Converter")
-    print("1. Celcius to fehrenhit")
-    print("2. Celsious to kelvin")
+    print("\n Temprature Converter") # Application for weather temperature 
+    print("1. Celcius to fehrenhit") # Celcius to fehrenhit
+    print("2. Celsious to kelvin")   # Celsious to kelvin
     print("3. Fehrenhit to celsius")
     print("4. Fehrenhite to kelvin")
     print("5. Kelvin to celcius")
